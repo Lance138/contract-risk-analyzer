@@ -1,4 +1,5 @@
-"""Embeds contract chunks into Chroma. Paces requests to respect the free-tier 100 RPM embedding quota."""
+# Deprecated: hit Gemini free-tier quota limits on this dataset size.
+# Kept to document the tradeoff. See embed_local.py for the working approach.
 
 import json
 import os
