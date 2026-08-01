@@ -1,3 +1,5 @@
+# Initial exploratory script — first look at CUAD's raw structure,
+# before building the full data_prep.py pipeline.
 from datasets import load_dataset
 
 # Downloads CUAD (cached locally after first run)
