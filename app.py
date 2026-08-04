@@ -19,7 +19,7 @@ from clause_extraction import CLAUSE_TYPES_TO_CHECK, get_structured_llm, analyze
 
 # Config: model names and where the pre-built CUAD knowledge base lives
 EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
-CUAD_HF_REPO = "Lance138/contract-risk-analyzer-vectordb"
+CUAD_HF_REPO = "Lance138/contract-risk-analyzer-vectordb" # my own Hugging Face dataset repo, holds the pre-built CUAD chroma_db
 CUAD_COLLECTION_NAME = "contracts_collection"
 
 # Page setup
