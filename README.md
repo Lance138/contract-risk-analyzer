@@ -1,4 +1,4 @@
-# Contract Risk Analyzer (Project for Broadway Infosys)
+# Contract Risk Analyzer
 
 ## Disclaimer
 >This is a portfolio/learning project, not legal advice. Outputs should not be relied on for real contract decisions without human legal review.
